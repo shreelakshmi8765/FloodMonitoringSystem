@@ -11,7 +11,7 @@ Develop an IoT Flood Monitoring System with Raspberry Pi Pico for real-time wate
 - `docs/Code_Logic_Implementation.pdf`
 - `circuit/Circuit_Schematic.png`
 - `code/` – Raspberry Pi Pico code, MQTT, ThingSpeak, etc.
-- `dashboard/Thingspeak_Screenshot.png`
+- `iot/Thingspeak_Screenshot.png`
 - `demo/` – Demo video file **or** external link below
 
 ## Demo Video
